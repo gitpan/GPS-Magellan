@@ -1,0 +1,6 @@
+Revision history for Perl extension GPS::Magellan.
+
+0.01  Tue Apr 22 21:59:09 2003
+	- original version; created by h2xs 1.22 with options
+		-agOPx -n GPS::Magellan gpslib/magellan.h gpslib/serial.h
+

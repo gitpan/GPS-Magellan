@@ -1,0 +1,5 @@
+.*CVS/.*
+\..*\.swp$
+.*\.[oa]$
+.*\.so$
+gpslib/test
