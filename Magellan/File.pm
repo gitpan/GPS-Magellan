@@ -192,7 +192,7 @@ L<GPS::Magellan>
 
 =head1 VERSION
 
-$Id: File.pm,v 1.1.2.2 2003/05/16 21:02:38 peter Exp $
+$Id: File.pm,v 1.1.1.1 2004/02/29 21:45:16 peter Exp $
 
 =head1 BUGS
 

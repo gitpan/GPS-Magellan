@@ -170,7 +170,7 @@ L<GPS::Magellan>
 
 =head1 VERSION
 
-$Id: Message.pm,v 1.1.1.1.4.2 2003/05/15 23:14:50 peter Exp $
+$Id: Message.pm,v 1.1.1.1 2004/02/29 21:45:16 peter Exp $
 
 =head1 BUGS
 

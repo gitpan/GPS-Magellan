@@ -8,7 +8,7 @@ use GPS::Magellan::Coord;
 
 use vars qw($AUTOLOAD);
 
-our $VERSION = '0.6';
+our $VERSION = '0.61';
 
 sub new {
     my $proto = shift;
@@ -244,7 +244,7 @@ L<GPS::Magellan::File>
 
 =head1 VERSION
 
-$Id: Magellan.pm,v 1.1.1.1.4.9 2003/05/20 18:39:15 peter Exp $
+$Id: Magellan.pm,v 1.2 2004/02/29 21:48:38 peter Exp $
 
 =head1 BUGS
 

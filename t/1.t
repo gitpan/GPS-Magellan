@@ -1,6 +1,8 @@
 
 
-# $Id: 1.t,v 1.1.1.1.4.5 2003/05/16 22:59:19 peter Exp $
+# $Id: 1.t,v 1.2 2004/02/29 21:46:26 peter Exp $
+
+no warnings;
 
 eval `cat test.conf`;
 
