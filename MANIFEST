@@ -1,4 +1,3 @@
-Changes
 Magellan.pm
 Magellan/Coord.pm
 Magellan/Message.pm
@@ -25,3 +24,4 @@ gpslib/magellan.h
 gpslib/serial.c
 gpslib/serial.h
 gpslib/test.c
+Changes

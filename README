@@ -17,24 +17,24 @@ STORY
 
     This module first came into existence as a set of hacks against 
     Brian J. Hennings' gpsutil[1] program, which was working with my
-    Magellan receiver (thanks for that, Brian!).  But I wanted a 
+    Magellan receiver (thanks for that, Brian).  But I wanted a 
     Perl interface and GPS::Garmin (although Magellan support is 
     mentioned in the docs) it couldn't talk to my Magellan.
 
     In the first iteration the C code was just passing back output
-    to Perl, which then re-parsed it (I needed to convert into different
-    file formats)...
+    to Perl, which then re-parsed it (I needed to convert the data convert 
+    into different file formats)... 
 
     Eventually, I rewrote some of Brian's code (the higher level 
     protocol and message-parsing routines) as a Perl module, which 
     then I glued to some parts of his code using perl XS.  Essentially, 
     the C code takes care of the serial port and NMEA checksums.  
-    Perl routines do their job from clean CSV data.
+    Perl routines do their job on clean CSV data.
 
 
 STATUS
 
-    This project is far from being nature, very ALPHA code (although it 
+    This project is far from being mature, it's ALPHA code (although it 
     *does* contain a quite extensive test suite that covers most of 
     the functionality).  
 
